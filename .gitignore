@@ -1,0 +1,32 @@
+# UE5 核心忽略文件
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+Build/
+Logs/
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+Plugins/*/Saved/
+Content/Developers/
+Content/Cooked/
+Content/StagedBuilds/
+
+# VS 解决方案文件（UE5 可自动生成，无需跟踪）
+*.sln
+*.suo
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+.vs/
+
+# 其他临时文件
+*.log
+*.bak
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+*.xcuserstate
+*.xcworkspace
+*.xcodeproj
