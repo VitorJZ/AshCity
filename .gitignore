@@ -11,6 +11,7 @@ Plugins/*/Saved/
 Content/Developers/
 Content/Cooked/
 Content/StagedBuilds/
+Content/MPTopdownKit/
 
 # VS 解决方案文件（UE5 可自动生成，无需跟踪）
 *.sln
